@@ -1,6 +1,6 @@
 # Notes Directory
 
 **hey**
-[rajofearth](rajofearth.github.io)
+[rajofearth](https://www.rajofearth.github.io)
 
 hey
