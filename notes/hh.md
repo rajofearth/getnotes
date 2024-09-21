@@ -1,4 +1,0 @@
-# hehe
-*hehe*
-
-**hhh**
